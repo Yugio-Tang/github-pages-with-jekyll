@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hugo Tang"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad that you're here... but this is my realm. 😁😉
